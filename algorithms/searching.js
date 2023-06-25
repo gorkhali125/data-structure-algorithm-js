@@ -28,6 +28,7 @@ class Searching {
         Binary Search eliminates half of the remaining elements in each step, making it significantly faster than linear search.
     */
     binarySearch(array, target) {
+        array.sort(function(a, b){return a-b})
         let left = 0;
         let right = array.length - 1;
 
