@@ -10,3 +10,7 @@ An algorithm is a step-by-step procedure or a set of rules for solving a specifi
 
 Data structures and algorithms are closely related because the choice of an appropriate data structure can greatly impact the efficiency and performance of the algorithm used to solve a particular problem. By understanding different data structures and their associated algorithms, developers can design efficient and optimized software solutions.
 
+# Table of Contents
+
+* [Data Structures](https://github.com/gorkhali125/data-structure-algorithm-js/tree/main/data_structures)
+* [Algorithms](https://github.com/gorkhali125/data-structure-algorithm-js/tree/main/algorithms)
