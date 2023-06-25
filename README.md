@@ -13,4 +13,12 @@ Data structures and algorithms are closely related because the choice of an appr
 # Table of Contents
 
 * [Data Structures](https://github.com/gorkhali125/data-structure-algorithm-js/tree/main/data_structures)
+    * [Array](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/array.js)
+    * [Stack](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/stack.js)
+    * [Queue](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/queue.js)
+    * [Linked List](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/linked-list.js)
+    * [Hash Table](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/hash-table.js)
+    * [Tree](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/tree.js)
+    * [Binary Search Tree](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/binary-search-tree.js)
+    * [Graph](https://github.com/gorkhali125/data-structure-algorithm-js/blob/main/data_structures/graph.js)
 * [Algorithms](https://github.com/gorkhali125/data-structure-algorithm-js/tree/main/algorithms)
